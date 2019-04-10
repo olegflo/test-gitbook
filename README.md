@@ -4,7 +4,7 @@
 
 
 
-[This is magic](alchemy/this-is-magic.md)
+[This is magic](alchemy/this-is-magic/)
 
 magic
 

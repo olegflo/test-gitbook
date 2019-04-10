@@ -18,5 +18,7 @@
 
 ## Alchemy
 
-* [This is magic](alchemy/this-is-magic.md)
+* [This is magic](alchemy/this-is-magic/README.md)
+  * [Untitled](alchemy/this-is-magic/untitled.md)
+* [XXX](alchemy/xxx.md)
 
