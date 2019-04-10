@@ -2,7 +2,7 @@
 
 * [Initial page](README.md)
 * [new page](new-page/README.md)
-  * [Untitled](new-page/untitled.md)
+  * [Article 1](new-page/untitled.md)
   * [Untitled](new-page/untitled-1/README.md)
     * [Untitled](new-page/untitled-1/untitled/README.md)
       * [page 2](new-page/untitled-1/untitled/page-2.md)
