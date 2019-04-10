@@ -16,3 +16,7 @@
 * [Untitled](group-2/untitled.md)
 * [Untitled](group-2/untitled-1.md)
 
+## Alchemy
+
+* [This is magic](alchemy/this-is-magic.md)
+
